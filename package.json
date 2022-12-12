@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/RabieLakhdar/aria-cron#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "node-cron": "^2.0.3",
     "node-fetch": "^2.6.0"
